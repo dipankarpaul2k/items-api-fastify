@@ -11,7 +11,7 @@ I am learning about APIs and CURD operations.This is the second time I am buildi
 5. [Author](#author)
 
 
-## Documentation 📖
+## Documentation
 
 I have used `fasify-openapi-docs` plugin to generate docs autometically.
 
@@ -19,7 +19,7 @@ I have used `fasify-openapi-docs` plugin to generate docs autometically.
 localhost:5000/docs/
 ```
 
-## Installation & Usage 💻
+## Installation & Usage
 
 - Fork the repository in your account in Github.
 - Make project directory and go inside the directory.
@@ -48,7 +48,7 @@ npm start
 http://localhost:5000/items
 ```
 
-## Endpoints 👇
+## Endpoints
 
 ### GET
 
@@ -90,6 +90,6 @@ Here are some of the major dependencies used in this project:
 - nodemon: [^3.0.1]
 - pino-pretty: [^10.2.3]
 
-## Author 😀😁
+## Author
 
 Dipankar Paul | dipankarpaul2k@gmail.com
