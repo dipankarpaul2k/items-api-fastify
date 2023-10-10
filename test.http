@@ -1,0 +1,28 @@
+### testing the route
+GET http://127.0.0.1:5000/
+
+### get all items
+GET http://127.0.0.1:5000/items
+
+### get a single item
+GET http://127.0.0.1:5000/items/9
+
+### add a new item
+POST http://127.0.0.1:5000/items
+Content-Type: application/json
+
+{
+    "name": "new item 👍"
+}
+
+### update a single item
+PUT http://127.0.0.1:5000/items/3
+Content-Type: application/json
+
+{
+    "name": "UPDATED item ✌️"
+}
+
+### dalete a single item
+DELETE http://127.0.0.1:5000/items/1
+
