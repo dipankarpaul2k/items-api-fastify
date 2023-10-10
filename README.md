@@ -7,7 +7,7 @@ I am learning about APIs and CURD operations.This is the second time I am buildi
 1. [Documentation](#documentation)
 2. [Installation & Usage](#installation--usage)
 3. [Endpoints](#endpoints)
-4. [Package.json](#packagejson)
+4. [Dependencies](#dependencies)
 5. [Author](#author)
 
 
@@ -81,7 +81,7 @@ localhost:5000/items/:itemId
 localhost:5000/items/:itemId
 ```
 
-## Package.json
+## Dependencies
 Here are some of the major dependencies used in this project:
 
 - Fastify: [^4.23.2]
