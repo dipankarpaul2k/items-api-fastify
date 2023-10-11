@@ -15,7 +15,7 @@ I am learning about APIs and CURD operations.This is the second time I am buildi
 
 I have used `fasify-openapi-docs` plugin to generate docs autometically.
 
-```
+```shell
 localhost:5000/docs/
 ```
 
@@ -28,7 +28,7 @@ localhost:5000/docs/
 - Start or run your API on the local machine.
 - Access the API in your browser or tools like Postman. I have used Rest Client VS Code extension.
 
-```terminal
+```shell
 # Make a directory
 mkdir items-api-fastify
 
@@ -50,34 +50,34 @@ http://localhost:5000/items
 
 ## Endpoints
 
-### GET
+### GET method
 
-```
-# To get all the todos.
+```shell
+# To get all the items
 localhost:5000/items
 
-# To get a single todo.
+# To get a single item
 localhost:5000/items/:itemId
 ```
 
-### POST
+### POST method
 
-```
-# To add a new todo.
+```shell
+# To add a new item
 localhost:5000/items
 ```
 
-### PUT
+### PUT method
 
-```
-# To update a single todo.
+```shell
+# To update a single item
 localhost:5000/items/:itemId
 ```
 
-### DELETE
+### DELETE method
 
-```
-# To delete a single todo.
+```shell
+# To delete a single item
 localhost:5000/items/:itemId
 ```
 
@@ -92,4 +92,4 @@ Here are some of the major dependencies used in this project:
 
 ## Author
 
-Dipankar Paul | dipankarpaul2k@gmail.com
+Dipankar Paul 😀 | 👉 dipankarpaul2k@gmail.com 😊
