@@ -13,8 +13,8 @@ fastify.register(fastifyOpenapiDocs, {
   openapi: {
     openapi: "3.0.3",
     info: {
-      title: "Todo API | fastify",
-      description: "API documentation for Todo API using Fastify.",
+      title: "Item API | fastify",
+      description: "API documentation for Item API using Fastify.",
       contact: {
         name: "Dipankar Paul",
         email: "dipankarpaul2k@gmail.com",
